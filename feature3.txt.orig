@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is a file feature3.txt from develop branch
+=======
+this is a file from feature3.txt from testforconflict
+>>>>>>> testforconflict
