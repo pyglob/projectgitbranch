@@ -1,0 +1,1 @@
+this is a file from feature3.txt from testforconflict
